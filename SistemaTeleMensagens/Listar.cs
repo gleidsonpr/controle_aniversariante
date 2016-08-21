@@ -34,11 +34,7 @@ namespace SistemaTeleMensagens
             dataGridView1.Rows.Clear();
             StreamWriter sw = new StreamWriter(@"rel.txt", false);
             sw.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-            sw.WriteLine("+  Software desenvolvido por Gleidson Viana, todos os direitos reservados      +");
-            sw.WriteLine("+  Entre em contato:                                                           +");
-            sw.WriteLine("+  www.youtube.com/tecnotera                                                   +");
-            sw.WriteLine("+  canaltecnotera@gmail.com                                                    +");
-            sw.WriteLine("+  www.canaltecnotera.blogspot.com                                             +");
+            sw.WriteLine("+  Software desenvolvido por Gleidson Viana      +");
             sw.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
             sw.WriteLine();
             sw.WriteLine();
