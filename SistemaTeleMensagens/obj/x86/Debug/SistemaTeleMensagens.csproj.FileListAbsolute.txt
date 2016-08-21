@@ -1,0 +1,88 @@
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagens.exe
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagens.pdb
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.exe
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.pdb
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Editar.resources
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+C:\Users\SISTEG\Desktop\Gleidson\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.exe
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.pdb
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagens.exe
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagens.pdb
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Editar.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.exe.config
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.exe
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.pdb
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.0.exe
+C:\Users\gleidson\Google Drive\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.0.pdb
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.exe.config
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.0.exe
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.0.pdb
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.exe
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.pdb
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+E:\GOOGLE DRIVE\SistemaTeleMensagens\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.exe.config
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.0.exe
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.0.pdb
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.exe
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.0.pdb
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.1\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2.exe.config
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2.exe
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2.pdb
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2.exe
+E:\GOOGLE DRIVE\PROGRAMAS EM DESENVOLVIMENTO\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2.pdb
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.exe.config
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.exe
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.pdb
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2serializable.exe
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2serializable.pdb
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.exe.config
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2serializable.exe
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2serializable.pdb
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.exe
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.pdb
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
