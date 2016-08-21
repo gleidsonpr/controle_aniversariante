@@ -26,8 +26,6 @@ namespace SistemaTeleMensagens
             int dia = data.Day;
             int mes = data.Month;
 
-
-
             for (int i = 0; i < Principal.cntCliente; i++)
             {
 
@@ -41,22 +39,8 @@ namespace SistemaTeleMensagens
                                 dataGridView1.Rows.Add(Principal.cliente[i].codCliente, Principal.cliente[i].nome, Principal.cliente[i].dia + "/" + Principal.cliente[i].mes + "/" + Principal.cliente[i].ano, Principal.cliente[i].numero);
 
                             }
-                        
-
-                       
-                }
-
-
-
+                            }
             }
-
-
-
-
-
-
-
-
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -87,13 +71,13 @@ namespace SistemaTeleMensagens
 
         private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Este software foi desenvolvio por Gleidson Viana, todos os direitos reservados. \nContato: \n www.youtube.com/tecnotera \n canaltecnotera@gmail.com\n www.canaltecnotera.blogspot.com", "Controle de Aniversariantes v.1.00");
+            MessageBox.Show("Sobre...", "Controle de Aniversariantes v.1.00");
         }
 
         private void Princ_Load(object sender, EventArgs e)
         {
-            linkLabel1.Links.Add(0, 29, "http://www.youtube.com/tecnotera");
-            linkLabel2.Links.Add(0, 32, "http://canaltecnotera.blogspot.com");
+            linkLabel1.Links.Add(0, 29, "#");
+            linkLabel2.Links.Add(0, 32, "#");
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -116,6 +100,4 @@ namespace SistemaTeleMensagens
               }
         }
     }
-
-
 }
