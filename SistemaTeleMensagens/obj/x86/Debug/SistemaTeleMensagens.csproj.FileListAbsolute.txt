@@ -86,3 +86,14 @@ C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2seria
 C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
 C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
 C:\Users\gleidson\Desktop\Projetos Visual Studio\SistemaTeleMensagens v 1.2serializable\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.exe.config
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2serializable.pdb
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csprojResolveAssemblyReference.cache
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Cadastro.resources
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Princ.resources
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Listar.resources
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.Properties.Resources.resources
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagens.csproj.GenerateResource.Cache
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.exe
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\bin\Debug\SistemaTeleMensagensV1.2serializable.pdb
+C:\Users\Gleidson\Source\Repos\controle_aniversariante\SistemaTeleMensagens\obj\x86\Debug\SistemaTeleMensagensV1.2serializable.exe

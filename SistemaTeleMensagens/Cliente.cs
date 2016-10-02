@@ -15,10 +15,6 @@ namespace SistemaTeleMensagens
         public string numero;
         public int codCliente;
 
-
-
-
-
         public Cliente(int cd,string n, int d, int m, int a, string nu)
         {
             this.codCliente = cd;

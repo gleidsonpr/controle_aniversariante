@@ -77,7 +77,7 @@ namespace SistemaTeleMensagens
         private void Princ_Load(object sender, EventArgs e)
         {
             linkLabel1.Links.Add(0, 29, "#");
-            linkLabel2.Links.Add(0, 32, "#");
+           
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

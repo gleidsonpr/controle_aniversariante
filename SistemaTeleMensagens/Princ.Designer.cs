@@ -46,7 +46,6 @@
             this.DatadeAniversário = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Detalhes = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label2 = new System.Windows.Forms.Label();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.button1 = new System.Windows.Forms.Button();
             this.toolStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
@@ -145,7 +144,7 @@
             this.linkLabel1.LinkColor = System.Drawing.Color.White;
             this.linkLabel1.Location = new System.Drawing.Point(606, 393);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(229, 18);
+            this.linkLabel1.Size = new System.Drawing.Size(230, 18);
             this.linkLabel1.TabIndex = 4;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "www.youtube.com/tecnotera";
@@ -205,20 +204,6 @@
             this.label2.Text = "Aniversariantes do dia";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
-            // linkLabel2
-            // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.BackColor = System.Drawing.Color.Black;
-            this.linkLabel2.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel2.LinkColor = System.Drawing.Color.White;
-            this.linkLabel2.Location = new System.Drawing.Point(313, 393);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(268, 18);
-            this.linkLabel2.TabIndex = 30;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "www.canaltecnotera.blogspot.com";
-            this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(732, 38);
@@ -237,7 +222,6 @@
             this.BackgroundImage = global::SistemaTeleMensagens.Properties.Resources.fundocer;
             this.ClientSize = new System.Drawing.Size(847, 420);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.linkLabel2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.linkLabel1);
@@ -281,7 +265,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn DatadeAniversário;
         private System.Windows.Forms.DataGridViewTextBoxColumn Detalhes;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.LinkLabel linkLabel2;
         private System.Windows.Forms.Button button1;
     }
 }
