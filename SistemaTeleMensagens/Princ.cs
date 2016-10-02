@@ -33,13 +33,13 @@ namespace SistemaTeleMensagens
                 if (Principal.cliente[i] != null)
                 {
                                            
-                            if (Principal.cliente[i].mes == mes &&Principal.cliente[i].dia==dia)
-                            {
+                    if (Principal.cliente[i].mes == mes &&Principal.cliente[i].dia==dia)
+                    {
 
-                                dataGridView1.Rows.Add(Principal.cliente[i].codCliente, Principal.cliente[i].nome, Principal.cliente[i].dia + "/" + Principal.cliente[i].mes + "/" + Principal.cliente[i].ano, Principal.cliente[i].numero);
+                        dataGridView1.Rows.Add(Principal.cliente[i].codCliente, Principal.cliente[i].nome, Principal.cliente[i].dia + "/" + Principal.cliente[i].mes + "/" + Principal.cliente[i].ano, Principal.cliente[i].numero);
 
-                            }
-                            }
+                    }
+                }
             }
         }
         private void button1_Click(object sender, EventArgs e)
